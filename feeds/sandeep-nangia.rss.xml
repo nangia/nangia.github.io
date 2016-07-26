@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ruminations</title><link>https://nangia.github.io/</link><description>by Sandeep Nangia</description><atom:link href="https://nangia.github.io/feeds/sandeep-nangia.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 12 Jul 2016 12:13:00 +0530</lastBuildDate><item><title>Favourite Downloads and Links</title><link>https://nangia.github.io/favourites.html</link><description>&lt;h2&gt;Ramakrishna Vedanta Literature&lt;/h2&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ruminations</title><link>https://nangia.github.io/</link><description>by Sandeep Nangia</description><atom:link href="https://nangia.github.io/feeds/sandeep-nangia.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 24 Jul 2016 15:29:00 +0530</lastBuildDate><item><title>Favourite Downloads and Links</title><link>https://nangia.github.io/favourites.html</link><description>&lt;h2&gt;Ramakrishna Vedanta Literature&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://www.ramakrishnavivekananda.info"&gt;RamakrishnaVivekananda.info&lt;/a&gt; includes Complete works of Swami Vivekananda, various Kathamrita/Gospel versions and a few biographies.&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.kathamrita.org/kathamrita"&gt;Sri Sri Ramakrishna Kathamrita&lt;/a&gt; - English translation by Dharm Pal Gupta&lt;/li&gt;
@@ -46,17 +46,18 @@
 &lt;h2&gt;Mahabharata&lt;/h2&gt;
 &lt;p&gt;Gita Press (translation into Hindi by Ramanarayanadatta astri)&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://archive.org/details/mahabharata01ramauoft"&gt;Volume 1: Adi Parva and Sabha Parva&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://archive.org/details/mahabharata02ramauoft"&gt;Volume 2: Vana Parva and Virata Parva&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://archive.org/details/mahabharata00ramauoft"&gt;Volume 3: Udyoga Parva and Bhishma Parva&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://archive.org/details/mahabharata04ramauoft"&gt;Volume 4: Drona, Karna, Shalya, Sauptika and Stri Parvas&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://archive.org/details/mahabharat05ramauoft"&gt;Volume 5: Shanti Parva&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://archive.org/details/mahabharata06ramauoft"&gt;Volume 6: Anushasana, Ashvamedika, Ashramavasika, Mausala, Mahaprasthanika and Svargarohana Parvas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://archive.org/details/mahabharata01ramauoft"&gt;Volume 1: Adi Parva (1) and Sabha Parva (2)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://archive.org/details/mahabharata02ramauoft"&gt;Volume 2: Vana Parva (3) and Virata Parva (4)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://archive.org/details/mahabharata00ramauoft"&gt;Volume 3: Udyoga Parva (5) and Bhishma Parva (6)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://archive.org/details/mahabharata04ramauoft"&gt;Volume 4: Drona (7), Karna (8), Shalya (9), Sauptika (10) and Stri Parvas (11)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://archive.org/details/mahabharat05ramauoft"&gt;Volume 5: Shanti Parva (12)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://archive.org/details/mahabharata06ramauoft"&gt;Volume 6: Anushasana (13), Ashvamedika (14), Ashramavasika (15), Mausala (16), Mahaprasthanika (17) and Svargarohana (18) Parvas&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Other versions&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://www.mahabharata-resources.org"&gt;Mahabharata resources&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://bombay.indology.info/mahabharata/statement.html"&gt;Text of Mahabharata (BORI version)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://sa.wikisource.org/wiki/महाभारतम्"&gt;Mahabharata text on Sanskrit Wiki&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Upanishads&lt;/h2&gt;
 &lt;ul&gt;
@@ -112,6 +113,7 @@ http://estudantedavedanta.net/Brahma-sutra-bhasya-Of-Sri-Sankaracarya-Ed-1st.pdf
 &lt;li&gt;&lt;a href="http://gitapress.org/e-books.htm"&gt;ebooks on Gita Press site&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://archive.org/details/dharmarthtrustjkcollectionbyegangotri"&gt;Raghunatha Temple Sanskrit Manuscript Library&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.dli.ernet.in"&gt;Digital Library of India: DLI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://hinduebooks.blogspot.in"&gt;Hinduism e-books&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Utilities&lt;/h2&gt;
 &lt;ul&gt;
@@ -127,7 +129,7 @@ http://estudantedavedanta.net/Brahma-sutra-bhasya-Of-Sri-Sankaracarya-Ed-1st.pdf
 &lt;li&gt;Just documenting some links which either I have ended up looking for again and again or I anticipate I will need to look them up again and again. So just saving them here for myself. &lt;/li&gt;
 &lt;li&gt;While I have tried to categorize based on primary content, there is a lot of overlap.&lt;/li&gt;
 &lt;li&gt;If you see some deadlinks, please let me know (@SNChd on Twitter)&lt;/li&gt;
-&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Sandeep Nangia</dc:creator><pubDate>Tue, 12 Jul 2016 12:13:00 +0530</pubDate><guid>tag:nangia.github.io,2016-06-26:favourites.html</guid><category>downloads</category><category>vedanta</category><category>ramakrishna</category><category>sanskrit</category></item><item><title>A Few Quotes on the Unity of Vishnu and Shiva</title><link>https://nangia.github.io/unity-of-vishnu-and-shiva.html</link><description>&lt;p&gt;स ब्रह्मा स शिवः सेन्द्रः सोऽक्षरः परमः स्वराट्।&lt;br /&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Sandeep Nangia</dc:creator><pubDate>Sun, 24 Jul 2016 15:29:00 +0530</pubDate><guid>tag:nangia.github.io,2016-06-26:favourites.html</guid><category>downloads</category><category>vedanta</category><category>ramakrishna</category><category>sanskrit</category></item><item><title>A Few Quotes on the Unity of Vishnu and Shiva</title><link>https://nangia.github.io/unity-of-vishnu-and-shiva.html</link><description>&lt;p&gt;स ब्रह्मा स शिवः सेन्द्रः सोऽक्षरः परमः स्वराट्।&lt;br /&gt;
 स एव विष्णुः स प्राणः स कालोऽग्निः स चन्द्रमाः॥&lt;br /&gt;
 कैवल्योपनिषत् ८     &lt;/p&gt;
 &lt;p&gt;He is the Brahma, He is Shiva, He is Indra, He is the Imperishable, the Supreme King, He (Himself) is the Vishnu, He is the Life Breath, He is the Destroyer, Fire and Moon.  &lt;/p&gt;

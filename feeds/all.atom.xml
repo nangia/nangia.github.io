@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Ruminations</title><link href="https://nangia.github.io/" rel="alternate"></link><link href="https://nangia.github.io/feeds/all.atom.xml" rel="self"></link><id>https://nangia.github.io/</id><updated>2016-07-12T12:13:00+05:30</updated><entry><title>Favourite Downloads and Links</title><link href="https://nangia.github.io/favourites.html" rel="alternate"></link><updated>2016-07-12T12:13:00+05:30</updated><author><name>Sandeep Nangia</name></author><id>tag:nangia.github.io,2016-06-26:favourites.html</id><summary type="html">&lt;h2&gt;Ramakrishna Vedanta Literature&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Ruminations</title><link href="https://nangia.github.io/" rel="alternate"></link><link href="https://nangia.github.io/feeds/all.atom.xml" rel="self"></link><id>https://nangia.github.io/</id><updated>2016-07-24T15:29:00+05:30</updated><entry><title>Favourite Downloads and Links</title><link href="https://nangia.github.io/favourites.html" rel="alternate"></link><updated>2016-07-24T15:29:00+05:30</updated><author><name>Sandeep Nangia</name></author><id>tag:nangia.github.io,2016-06-26:favourites.html</id><summary type="html">&lt;h2&gt;Ramakrishna Vedanta Literature&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://www.ramakrishnavivekananda.info"&gt;RamakrishnaVivekananda.info&lt;/a&gt; includes Complete works of Swami Vivekananda, various Kathamrita/Gospel versions and a few biographies.&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.kathamrita.org/kathamrita"&gt;Sri Sri Ramakrishna Kathamrita&lt;/a&gt; - English translation by Dharm Pal Gupta&lt;/li&gt;
@@ -46,17 +46,18 @@
 &lt;h2&gt;Mahabharata&lt;/h2&gt;
 &lt;p&gt;Gita Press (translation into Hindi by Ramanarayanadatta astri)&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://archive.org/details/mahabharata01ramauoft"&gt;Volume 1: Adi Parva and Sabha Parva&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://archive.org/details/mahabharata02ramauoft"&gt;Volume 2: Vana Parva and Virata Parva&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://archive.org/details/mahabharata00ramauoft"&gt;Volume 3: Udyoga Parva and Bhishma Parva&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://archive.org/details/mahabharata04ramauoft"&gt;Volume 4: Drona, Karna, Shalya, Sauptika and Stri Parvas&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://archive.org/details/mahabharat05ramauoft"&gt;Volume 5: Shanti Parva&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://archive.org/details/mahabharata06ramauoft"&gt;Volume 6: Anushasana, Ashvamedika, Ashramavasika, Mausala, Mahaprasthanika and Svargarohana Parvas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://archive.org/details/mahabharata01ramauoft"&gt;Volume 1: Adi Parva (1) and Sabha Parva (2)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://archive.org/details/mahabharata02ramauoft"&gt;Volume 2: Vana Parva (3) and Virata Parva (4)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://archive.org/details/mahabharata00ramauoft"&gt;Volume 3: Udyoga Parva (5) and Bhishma Parva (6)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://archive.org/details/mahabharata04ramauoft"&gt;Volume 4: Drona (7), Karna (8), Shalya (9), Sauptika (10) and Stri Parvas (11)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://archive.org/details/mahabharat05ramauoft"&gt;Volume 5: Shanti Parva (12)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://archive.org/details/mahabharata06ramauoft"&gt;Volume 6: Anushasana (13), Ashvamedika (14), Ashramavasika (15), Mausala (16), Mahaprasthanika (17) and Svargarohana (18) Parvas&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Other versions&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://www.mahabharata-resources.org"&gt;Mahabharata resources&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://bombay.indology.info/mahabharata/statement.html"&gt;Text of Mahabharata (BORI version)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://sa.wikisource.org/wiki/महाभारतम्"&gt;Mahabharata text on Sanskrit Wiki&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Upanishads&lt;/h2&gt;
 &lt;ul&gt;
@@ -112,6 +113,7 @@ http://estudantedavedanta.net/Brahma-sutra-bhasya-Of-Sri-Sankaracarya-Ed-1st.pdf
 &lt;li&gt;&lt;a href="http://gitapress.org/e-books.htm"&gt;ebooks on Gita Press site&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://archive.org/details/dharmarthtrustjkcollectionbyegangotri"&gt;Raghunatha Temple Sanskrit Manuscript Library&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.dli.ernet.in"&gt;Digital Library of India: DLI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://hinduebooks.blogspot.in"&gt;Hinduism e-books&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Utilities&lt;/h2&gt;
 &lt;ul&gt;
