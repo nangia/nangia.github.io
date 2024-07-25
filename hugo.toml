@@ -15,30 +15,33 @@ themesDir = "./themes"
 # Number of blog posts in each pagination page
 paginate = 6
 
-[permalinks]
-post = "/blog/:year-:month-:day-:title/" # change the post URL to look like the old ones
+# [permalinks]
+# post = "/blog/:year-:month-:day-:title/" # change the post URL to look like the old ones
+
+[frontmatter]
+  lastmod = ["lastmod", ":git", "date", "publishDate"]
 
 [params]
+compactIndex = false
+sidebarTags = "Tags"
 
+  # Generate taxonomy pages
+generateTaxonomyList = true
+cleanDestinationDir = true
   # --- Start sidebar options ---
   # Number of last posts that will be displayed in the sidebar - set to 0 or remove to hide this section
   sidebarRecentLimit = 5
   math = true
   # Sidebar header - passed to markdownify so you can write markdown here
-  sidebarHeader = "Sidebar Header"
+  sidebarHeader = "Elsewhere on the Internet"
 
   # Sidebar text also supports markdown
   # New lines can be added with two spaces at the end of line. New paragraphs can be added with two an empty line.
   # when adding two new lines, remember to remove the indentation otherwise the new line will be treated as a codeblock
-  sidebarText = """Here's a [link to example.net](https://www.example.net)
-
-  New paragraph
-
-  Another paragraph which has two spaces in the end to create a new line using markdown  
-  New line but not a new paragraph
+  sidebarText = """And this is where you can find me elsewhere on the internet. 
   """
   # Sidebar menu - if true will add a sidebar menu between sidebar text and recent posts
-  sidebarMenuEnabled = false
+  sidebarMenuEnabled = true
   sidebarMenuHeader = "Sidebar Links"
 
   # sidebar links
@@ -56,7 +59,7 @@ post = "/blog/:year-:month-:day-:title/" # change the post URL to look like the 
   navigationNewWindow = true
 
   # If false, all of blog post will appear on front page (and in pagination)
-  truncate = true
+  truncate = false
 
   # Author's name (appears in meta tags and under posts)
   author = "Sandeep Nangia"
@@ -94,11 +97,10 @@ post = "/blog/:year-:month-:day-:title/" # change the post URL to look like the 
   disableGoogleFonts = true
 
 [taxonomies]
-  category = ['Tech', 'Sanskrit']
-  tag = ['stotra', 'annapurna']
+  category = 'categories'
+  tag = 'tags'
 
-  # Generate taxonomy pages
-  generateTaxonomyList = true
+
 
 
 # Menu
@@ -111,12 +113,12 @@ post = "/blog/:year-:month-:day-:title/" # change the post URL to look like the 
 
 [[menu.main]]
   Name = "Tech"
-  URL = "/"
+  URL = "/categories/tech/"
   weight = -4
 
 [[menu.main]]
   Name = "Sanskrit"
-  URL = "/"
+  URL = "/categories/sanskrit/"
   weight = -3
 
 [[menu.main]]
@@ -126,22 +128,22 @@ post = "/blog/:year-:month-:day-:title/" # change the post URL to look like the 
 
 [[menu.main]]
   Name = "About Me"
-  URL = "/"
+  URL = "/pages/about/"
   weight = 0
 
 
 # Sidebar menus
 # Enable with "sidebarMenuEnabled = true" under [params]
 # Header text is "sidebarMenuHeader" under [params]
-[[menu.sidebar]]
-  Name = "example.net"
-  URL = "https://www.example.net"
-  weight = 0
+# [[menu.sidebar]]
+#  Name = "example.net"
+#  URL = "https://www.example.net"
+#  weight = 0
 
-[[menu.sidebar]]
-  Name = "This theme on Github"
-  URL = "https://www.github.com/parsiya/hugo-octopress"
-  weight = 1
+# [[menu.sidebar]]
+#  Name = "This theme on Github"
+#  URL = "https://www.github.com/parsiya/hugo-octopress"
+#  weight = 1
 
 [markup]
   [markup.tableOfContents]

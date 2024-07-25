@@ -1,12 +1,17 @@
-+++
-title="Annapurna Stotra"
-date=2013-10-03T00:03:00+05:30
-slug='annapurna-stotra'
-lastmod=2013-10-03T00:03:00+05:30
-summary='This is the beautiful stotra of Mother Annapurna by Sri Shankaracharya.'
-categories = ['Sanskrit']
-tags = ['stotra', 'annapurna']
-+++
+---
+title: "Annapurna Stotra"
+date: "2013-10-03T00:03:00+05:30"
+slug: annapurna-stotra
+lastmod: 2013-10-03T00:03:00+05:30
+summary: 'This is the beautiful stotra of Mother Annapurna by Sri Shankaracharya.'
+categories:
+- Sanskrit
+tags:
+- stotra
+- annapurna
+---
+
+
 
 
 
