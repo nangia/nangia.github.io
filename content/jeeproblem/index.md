@@ -9,9 +9,12 @@ tags = ['maths' ]
   math = true
 +++
 
+## Problem 
 Find the number of 3 digit natural numbers from that are divisible by 2 or 3 but not by 7. 
 
-Solution: Let the set U be the 3 digit numbers (i.e. numbers from 100 to 999, both numbers inclusive). Let the sets \(D_2\), \(D_3\) and \(D_7\) be subsets of U such that they are the sets of numbers divisible by 2, 3 and 7 respectively. This is illustrated in the following figure. 
+## Solution
+
+Let the set U be the 3 digit numbers (i.e. numbers from 100 to 999, both numbers inclusive). Let the sets \(D_2\), \(D_3\) and \(D_7\) be subsets of U such that they are the sets of numbers divisible by 2, 3 and 7 respectively. This is illustrated in the following figure. 
 
 
 ![Venn Diagram](images/237venndiag.png)

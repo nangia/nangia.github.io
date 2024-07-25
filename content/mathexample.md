@@ -4,6 +4,7 @@ title = 'Math examples'
 slug = 'mathexample'
 categories = ['Tech']
 tags = ['maths' ]
+draft = true
 [params]
   math = true
 +++

@@ -30,7 +30,7 @@ generateTaxonomyList = true
 cleanDestinationDir = true
   # --- Start sidebar options ---
   # Number of last posts that will be displayed in the sidebar - set to 0 or remove to hide this section
-  sidebarRecentLimit = 5
+  sidebarRecentLimit = 0
   math = true
   # Sidebar header - passed to markdownify so you can write markdown here
   sidebarHeader = "Elsewhere on the Internet"
@@ -41,7 +41,7 @@ cleanDestinationDir = true
   sidebarText = """And this is where you can find me elsewhere on the internet. 
   """
   # Sidebar menu - if true will add a sidebar menu between sidebar text and recent posts
-  sidebarMenuEnabled = true
+  sidebarMenuEnabled = false
   sidebarMenuHeader = "Sidebar Links"
 
   # sidebar links
@@ -121,10 +121,6 @@ cleanDestinationDir = true
   URL = "/categories/sanskrit/"
   weight = -3
 
-[[menu.main]]
-  Name = "Archive"
-  URL = "/"
-  weight = -1
 
 [[menu.main]]
   Name = "About Me"
