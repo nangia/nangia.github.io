@@ -22,7 +22,7 @@ paginate = 6
   lastmod = ["lastmod", ":git", "date", "publishDate"]
 
 [params]
-compactIndex = false
+compactIndex = true
 sidebarTags = "Tags"
 
   # Generate taxonomy pages
@@ -128,7 +128,7 @@ cleanDestinationDir = true
 
 [[menu.main]]
   Name = "About Me"
-  URL = "/pages/about/"
+  URL = "/page/about/"
   weight = 0
 
 
