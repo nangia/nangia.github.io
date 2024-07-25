@@ -1,8 +1,8 @@
 ---
 title: "The Stotra of Durga for Deliverance from Troubles"
-date: "2014-07-12 18:46"
+date: "2014-07-12T00:03:00+05:30"
+lastmod: "2015-03-01 22:03:00+05:30"
 slug: durgaapadudhara
-lastmod: "2015-03-01 22:03"
 summary: 'This is the stotra of Durga for redemption from misfortunes. Also known as दुर्गास्तवराजः (durgāstavarājaḥ) i.e. the king of the stotras of Durga and is found in viśvasāratantra.'
 categories:
 - Sanskrit
