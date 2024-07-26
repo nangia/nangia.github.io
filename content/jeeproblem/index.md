@@ -16,9 +16,14 @@ Find the number of 3 digit natural numbers that are divisible by 2 or 3 but not 
 
 Let the set U be set of the 3 digit numbers (i.e. numbers from 100 to 999, both numbers inclusive). Let the sets \(D_2\), \(D_3\) and \(D_7\) be subsets of U such that they are the sets of numbers divisible by 2, 3 and 7 respectively. Similarly, the let sets \(D_{23}\), \(D_{37}\), \(D_{27}\) and \(D_{237}\) denote numbers divisible by 2 and 3, 3 and 7; 2 and 7; 2, 3 and 7 respectively. 
 
- As can be seen from the diagram, the count of numbers that are divisible by 2 or 3 but not by 7 is equal to \(|D_2| + |D_3| - |D_{27}| - |D_{23}|  - |D_{37}| + |D_{237}| \).
+The count of numbers that are divisible by 2 or 3 but not by 7 is equal to \( | D_2 \cup D_3 \cup D_7 | - | D_7| \) (see diagram below). 
 
 ![Venn Diagram](images/237venndiag.png)
+
+By the [principle of inclusion and exclusion](https://en.wikipedia.org/wiki/Inclusion%E2%80%93exclusion_principle): \[ |D_2 \cup D_3 \cup D_7 | = |D_2| + |D_3| + |D_7| - |D_2 \cap  D_3| - |D_2 \cap D_7| - |D_3 \cap D_7| + |D_2 \cap D_3 \cap D_7 |\]
+
+Hence, \(A + B + C = |D_2| + |D_3|  - |D_2 \cap D_3| - |D_2 \cap D_7| - |D_3 \cap D_7| + |D_2 \cap D_3 \cap D_7 | \).
+
 
 The numbers in U that are divisible by 2 are:
 100, 102, 104 ... 998. This is an A.P. that starts from 100 with difference of 2 between successive terms. Hence, \(100 + 2(|D_2| - 1) = 998\). Therefore, \(|D_2| = 450\).
