@@ -1,5 +1,5 @@
 ---
-title: "Kaivalyashtakam: the eight verses on the uniqueness of Lord's name."
+title: "कैवल्याष्टकम्: The eight verses on the uniqueness of Lord's name."
 date: "2013-09-03T22:32:00+05:30"
 lastmod: "2013-09-06T07:05:00+05:30"
 slug: kaivalyaaShtakam

@@ -24,32 +24,35 @@ paginate = 6
 [params]
 compactIndex = true
 sidebarTags = "Tags"
+sidebarCategories = "Categories"
 
   # Generate taxonomy pages
 generateTaxonomyList = true
 cleanDestinationDir = true
-  # --- Start sidebar options ---
-  # Number of last posts that will be displayed in the sidebar - set to 0 or remove to hide this section
-  sidebarRecentLimit = 0
-  math = true
-  # Sidebar header - passed to markdownify so you can write markdown here
-  sidebarHeader = "Elsewhere on the Internet"
+# --- Start sidebar options ---
+# Number of last posts that will be displayed in the sidebar - set to 0 or remove to hide this section
+sidebarRecentLimit = 0
+math = true
+# Sidebar header - passed to markdownify so you can write markdown here
+sidebarHeader = "Me elsewhere on the Internet"
 
-  # Sidebar text also supports markdown
-  # New lines can be added with two spaces at the end of line. New paragraphs can be added with two an empty line.
-  # when adding two new lines, remember to remove the indentation otherwise the new line will be treated as a codeblock
-  sidebarText = """And this is where you can find me elsewhere on the internet. 
-  """
-  # Sidebar menu - if true will add a sidebar menu between sidebar text and recent posts
-  sidebarMenuEnabled = false
-  sidebarMenuHeader = "Sidebar Links"
+# Sidebar text also supports markdown
+# New lines can be added with two spaces at the end of line. New paragraphs can be added with two an empty line.
+# when adding two new lines, remember to remove the indentation otherwise the new line will be treated as a codeblock
+sidebarText = """And this is where you can find me elsewhere on the internet. 
+"""
+# Sidebar menu - if true will add a sidebar menu between sidebar text and recent posts
+sidebarMenuEnabled = false
+sidebarMenuHeader = "Sidebar Links"
 
-  # sidebar links
-  github = "https://github.com/nangia"
-  # bitbucket = "https://bitbucket.org/parsiya/"
-  twitter = "https://x.com/SNChd"
-  linkedin = "https://www.linkedin.com/in/sandeepnangia/"
-  # --- End sidebar options ---
+# sidebar links
+twitter = "https://x.com/SNChd"
+linkedin = "https://www.linkedin.com/in/sandeepnangia/"
+facebook = "https://www.facebook.com/sandeep.nangia"
+
+github = "https://github.com/nangia"
+# bitbucket = "https://bitbucket.org/parsiya/"
+# --- End sidebar options ---
 
 
 
@@ -92,6 +95,7 @@ cleanDestinationDir = true
 
   # Set to true to hide ReadingTime on posts
   disableReadingTime = true
+  noreadingtime = true
 
   # Set to true to disable downloading of remote Google fonts
   disableGoogleFonts = true
@@ -107,19 +111,10 @@ cleanDestinationDir = true
 # If navigationNewWindow (under [params]) is set to true then all links except root ("/") will open in a new window
 # If it does not exist or is set to false then links will open in the same window
 [[menu.main]]
-  Name = "All"
+  Name = "Blogs"
   URL = "/"
   weight = -5
 
-[[menu.main]]
-  Name = "Tech"
-  URL = "/categories/tech/"
-  weight = -4
-
-[[menu.main]]
-  Name = "Sanskrit"
-  URL = "/categories/sanskrit/"
-  weight = -3
 
 
 [[menu.main]]
@@ -146,7 +141,19 @@ cleanDestinationDir = true
     endLevel = 8
     startLevel = 1
   [markup.highlight]
-    style = "solarized-dark"
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ''
+    hl_inline = false
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    noHl = false
+    style = 'monokai'
+    tabWidth = 4
   [markup.goldmark]
     [markup.goldmark.extensions]
       [markup.goldmark.extensions.passthrough]

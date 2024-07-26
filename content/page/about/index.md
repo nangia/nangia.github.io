@@ -1,5 +1,4 @@
 +++
-
 title = 'About Me'
 slug = 'about'
 summary='About Sandeep Nangia.'
@@ -7,7 +6,8 @@ date="2013-10-03T00:01:00+05:30"
 lastmod="2024-07-25T20:44:00+05:30"
 +++
 
-![Picture of Sandeep Nangia](images/sn-new.jpg "Sandeep Nangia")
+{{< figure src="images/sn-new.jpg" title="Picture of Sandeep Nangia" >}}
+
 
 I have a M.Tech degree in Computer Science & Engineering from [IIT Kanpur](www.iitk.ac.in/) and a Bachelor’s of Engineering again in Computer Science & Engineering from Punjab Engineering College (now renamed to [PEC University of Technology](http://pec.ac.in/), a deemed university). You can read more about my professional profile on [LinkedIn](http://in.linkedin.com/in/sandeepnangia).
 
@@ -23,4 +23,4 @@ I studied Saṃskṛta till class 12th and then, off and on, I have kept in touc
 
 Credits
 -------
-This site has been created with the [Hugo](https://gohugo.io), a [Go](https://go.dev) based static blog generator. The theme used is [Hugo-Octpress](https://themes.gohugo.io/themes/hugo-octopress/).
+This site has been created with the [Hugo](https://gohugo.io), a [Go](https://go.dev) based static blog generator. The theme used is [Hugo-Octpress](https://themes.gohugo.io/themes/hugo-octopress/) with some modifications to the layouts in this blog.

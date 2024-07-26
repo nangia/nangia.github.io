@@ -9,8 +9,6 @@ categories:
 tags:
 - ramakrishna
 - downloads
-- sanskrit
-- vedanta
 ---
 
 

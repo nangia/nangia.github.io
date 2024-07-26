@@ -8,7 +8,7 @@ categories:
 - Sanskrit
 tags:
 - vyakarana
-- vivekananda
+- Vivekananda
 ---
 
 
@@ -86,7 +86,7 @@ References
 11. [Manusmriti 2.160](https://archive.org/stream/Manusmriti_201503/Manusmriti#page/n117/mode/1up) text with वाङ्मनसी reading 
 12. Another [Manusmriti text 2.160](https://archive.org/stream/ManuSmritHindi-GpDwivedi#page/n189/mode/1up) with वाङ्मनसी reading.
 13. Kalidasa’s Raghuvamsham 10.15 with Mallinath’s Tika can be viewed [here](https://archive.org/stream/raghuvamsha_with_sanjeevini_commentary_of_mallinatha/Raghuvamsha%20Mahakavya%20with%20the%20Sanjeevini%20commentary%20of%20Mallinatha#page/n210/mode/1up).
-14. [A Bouquet of Swami Vivekananda's Writings](http://www.advaitaashrama.org/Book/Detail/8099), published by Advaita Ashrama, Kolkata. The relevant pages have been scanned and are available [here](/pics/TheHymnOfSamadhi.pdf). 
+14. [A Bouquet of Swami Vivekananda's Writings](http://www.advaitaashrama.org/Book/Detail/8099), published by Advaita Ashrama, Kolkata. The relevant pages have been scanned and are available [here](/TheHymnOfSamadhi.pdf). 
 
 
 

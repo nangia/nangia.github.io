@@ -17,6 +17,24 @@
   <!-- Social media icons are moved to social.html -->
   {{ partial "social.html" . }}
 
+  <section class="first odd">
+
+    {{ with .Site.Params.sidebarCategories}}
+      <h1>{{ . | markdownify }}</h1>
+    {{ end }}
+
+    <p>
+	{{range $name, $taxonomy := .Site.Taxonomies.categories}} {{ $cnt := .Count }}
+	  {{ with $.Site.GetPage (printf "/categories/%s" $name) }}
+          <div class="tagbutton">
+		<a href={{ .RelPermalink }} title="All pages with category <i>{{$name}}</i>">{{$name}}</a>
+		<sup>{{$cnt}}</sup>
+          </div>
+	  {{end}}
+	{{end}}
+    </p>
+  </section>
+
 
   <section class="first odd">
 

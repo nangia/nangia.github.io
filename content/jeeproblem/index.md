@@ -1,16 +1,16 @@
 +++
 date = 2024-07-24T18:09:49-08:00
-title = 'JEE Problem'
+title = '3 digit natural numbers that are divisible by 2 or 3 but not by 7'
 slug = 'jee237'
-summary='Find the number of 3 digit natural numbers from that are divisible by 2 or 3 but not by 7.'
-categories = ['Tech']
-tags = ['maths' ]
+summary='Find 3 digit natural numbers that are divisible by 2 or 3 but not by 7.'
+categories = ['maths']
+tags = ['PIE' ]
 [params]
   math = true
 +++
 
 ## Problem 
-Find the number of 3 digit natural numbers from that are divisible by 2 or 3 but not by 7. 
+Find the number of 3 digit natural numbers that are divisible by 2 or 3 but not by 7. 
 
 ## Solution
 
