@@ -1,5 +1,6 @@
 +++
 date = 2024-07-24T18:09:49-08:00
+lastmod = "2024-07-26T20:22:00+05:30"
 title = '3 digit natural numbers that are divisible by 2 or 3 but not by 7'
 slug = 'jee237'
 summary='Find 3 digit natural numbers that are divisible by 2 or 3 but not by 7.'
