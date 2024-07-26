@@ -18,7 +18,7 @@ Let the set U be set of the 3 digit numbers (i.e. numbers from 100 to 999, both 
 
 The count of numbers that are divisible by 2 or 3 but not by 7 is equal to \( | D_2 \cup D_3 \cup D_7 | - | D_7| \) (see diagram below). 
 
-![Venn Diagram](images/237venndiag.png)
+![Venn Diagram](/237venndiag.png)
 
 By the [principle of inclusion and exclusion](https://en.wikipedia.org/wiki/Inclusion%E2%80%93exclusion_principle): \[ |D_2 \cup D_3 \cup D_7 | = |D_2| + |D_3| + |D_7| - |D_2 \cap  D_3| - |D_2 \cap D_7| - |D_3 \cap D_7| + |D_2 \cap D_3 \cap D_7 |\]
 

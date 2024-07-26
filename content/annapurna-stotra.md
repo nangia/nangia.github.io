@@ -1,5 +1,5 @@
 ---
-title: "Annapurna Stotra"
+title: "अन्नपूर्णास्तोत्रम् - Annapurna Stotra"
 date: "2013-10-03T00:03:00+05:30"
 lastmod: "2013-10-03T00:03:00+05:30"
 slug: annapurna-stotra

@@ -17,11 +17,12 @@ paginate = 6
 
 # [permalinks]
 # post = "/blog/:year-:month-:day-:title/" # change the post URL to look like the old ones
-
+uglyURLs = true
 [frontmatter]
   lastmod = ["lastmod", ":git", "date", "publishDate"]
 
 [params]
+enableRobotsTXT = true
 compactIndex = true
 sidebarTags = "Tags"
 sidebarCategories = "Categories"
@@ -119,7 +120,7 @@ github = "https://github.com/nangia"
 
 [[menu.main]]
   Name = "About Me"
-  URL = "/page/about/"
+  URL = "/about"
   weight = 0
 
 

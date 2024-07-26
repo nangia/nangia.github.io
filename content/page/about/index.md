@@ -1,9 +1,11 @@
 +++
 title = 'About Me'
-slug = 'about'
+url = '/about'
 summary='About Sandeep Nangia.'
 date="2013-10-03T00:01:00+05:30"
 lastmod="2024-07-25T20:44:00+05:30"
+type = "page"
+
 +++
 
 {{< figure src="images/sn-new.jpg" title="Picture of Sandeep Nangia" >}}

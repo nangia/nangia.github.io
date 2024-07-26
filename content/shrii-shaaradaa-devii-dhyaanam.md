@@ -1,5 +1,5 @@
 ---
-title: "Sri Sarada Devi Dhyanam"
+title: "श्रीशारदादेवीध्यानम् - Sri Sarada Devi Dhyanam"
 date: "2013-09-01T21:46:00+05:30"
 lastmod: "2013-09-14T15:09:00+05:30"
 slug: shrii-shaaradaa-devii-dhyaanam
@@ -12,8 +12,6 @@ tags:
 ---
 
 
-श्रीशारदादेवीध्यानम्
------------------------
 
 ![Picture of Sri Sarada Devi](/mother.jpg "Sri Sarada Devi")
 

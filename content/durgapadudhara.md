@@ -1,5 +1,5 @@
 ---
-title: "The Stotra of Durga for Deliverance from Troubles"
+title: "दुर्गापदुद्धारस्तोत्रम् - The Stotra of Durga for Deliverance from Troubles"
 date: "2014-07-12T00:03:00+05:30"
 lastmod: "2015-03-01 22:03:00+05:30"
 slug: durgaapadudhara
@@ -13,9 +13,6 @@ tags:
 
 
 
-
-दुर्गापदुद्धारस्तोत्रम्
---------------------------
 
 
 

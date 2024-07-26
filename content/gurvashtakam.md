@@ -1,5 +1,5 @@
 ---
-title: "The Eight Verses on Guru"
+title: "गुर्वष्टकम् - The Eight Verses on Guru"
 date: "2013-10-13T19:32:00+05:30"
 lastmod: "2013-10-13T19:40:00+05:30"
 slug: gurvashtakam
