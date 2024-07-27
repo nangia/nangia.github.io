@@ -4,6 +4,7 @@ languageCode='en-us'
 title="Ruminations"
 theme='Hugo-Octopress'
 
+
 # Needed so we can serve the example website without extra switches
 themesDir = "./themes"
 
@@ -22,6 +23,7 @@ uglyURLs = true
   lastmod = ["lastmod", ":git", "date", "publishDate"]
 
 [params]
+
 enableRobotsTXT = true
 compactIndex = true
 sidebarTags = "Tags"

@@ -1,6 +1,6 @@
 +++
 date = 2024-07-24T18:09:49-08:00
-lastmod = "2024-07-26T20:22:00+05:30"
+lastmod = "2024-07-27T15:55:00+05:30"
 title = '3 digit natural numbers that are divisible by 2 or 3 but not by 7'
 slug = 'jee237'
 summary='Find 3 digit natural numbers that are divisible by 2 or 3 but not by 7.'
@@ -21,9 +21,9 @@ The count of numbers that are divisible by 2 or 3 but not by 7 is equal to \( | 
 
 ![Venn Diagram](/237venndiag.png)
 
-By the [principle of inclusion and exclusion](https://en.wikipedia.org/wiki/Inclusion%E2%80%93exclusion_principle): \[ |D_2 \cup D_3 \cup D_7 | = |D_2| + |D_3| + |D_7| - |D_2 \cap  D_3| - |D_2 \cap D_7| - |D_3 \cap D_7| + |D_2 \cap D_3 \cap D_7 |\]
+By the [principle of inclusion and exclusion](https://en.wikipedia.org/wiki/Inclusion%E2%80%93exclusion_principle): \() |D_2 \cup D_3 \cup D_7 | =\)\() |D_2| + |D_3| + |D_7| - |D_2 \cap  D_3| \)\(- |D_2 \cap D_7| \)\(- |D_3 \cap D_7|\)\( + |D_2 \cap D_3 \cap D_7 |\)
 
-Hence, \(A + B + C = |D_2| + |D_3|  - |D_2 \cap D_3| - |D_2 \cap D_7| - |D_3 \cap D_7| + |D_2 \cap D_3 \cap D_7 | \).
+Hence, \(A + B + C =\)\( |D_2| + |D_3|\)\(  - |D_2 \cap D_3| - |D_2 \cap D_7|\)\( - |D_3 \cap D_7|\)\( + |D_2 \cap D_3 \cap D_7 | \).
 
 
 The numbers in U that are divisible by 2 are:
