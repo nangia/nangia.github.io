@@ -22,6 +22,10 @@ uglyURLs = true
 [frontmatter]
   lastmod = ["lastmod", ":git", "date", "publishDate"]
 
+[services]
+  [services.googleAnalytics]
+    ID = 'G-QKJ8GCDZWH'
+
 [params]
 
 enableRobotsTXT = true
