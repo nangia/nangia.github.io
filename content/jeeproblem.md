@@ -21,7 +21,7 @@ The count of numbers that are divisible by 2 or 3 but not by 7 is equal to \( | 
 
 ![Venn Diagram](/237venndiag.png)
 
-By the [principle of inclusion and exclusion](https://en.wikipedia.org/wiki/Inclusion%E2%80%93exclusion_principle): \() |D_2 \cup D_3 \cup D_7 | =\)\() |D_2| + |D_3| + |D_7| - |D_2 \cap  D_3| \)\(- |D_2 \cap D_7| \)\(- |D_3 \cap D_7|\)\( + |D_2 \cap D_3 \cap D_7 |\)
+By the [principle of inclusion and exclusion](https://en.wikipedia.org/wiki/Inclusion%E2%80%93exclusion_principle): \( |D_2 \cup D_3 \cup D_7 | =\)\( |D_2| + |D_3| + |D_7| - |D_2 \cap  D_3| \)\(- |D_2 \cap D_7| \)\(- |D_3 \cap D_7|\)\( + |D_2 \cap D_3 \cap D_7 |\)
 
 Hence, \(A + B + C =\)\( |D_2| + |D_3|\)\(  - |D_2 \cap D_3| - |D_2 \cap D_7|\)\( - |D_3 \cap D_7|\)\( + |D_2 \cap D_3 \cap D_7 | \).
 
