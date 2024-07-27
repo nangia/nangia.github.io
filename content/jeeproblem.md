@@ -1,6 +1,6 @@
 +++
 date = 2024-07-24T18:09:49-08:00
-lastmod = "2024-07-27T15:55:00+05:30"
+lastmod = "2024-07-27T16:30:00+05:30"
 title = '3 digit natural numbers that are divisible by 2 or 3 but not by 7'
 slug = 'jee237'
 summary='Find 3 digit natural numbers that are divisible by 2 or 3 but not by 7.'
@@ -27,7 +27,7 @@ Hence, \(A + B + C =\)\( |D_2| + |D_3|\)\(  - |D_2 \cap D_3| - |D_2 \cap D_7|\)\
 
 
 The numbers in U that are divisible by 2 are:
-100, 102, 104 ... 998. This is an A.P. that starts from 100 with difference of 2 between successive terms. Hence, \(100 + 2(|D_2| - 1) = 998\). Therefore, \(|D_2| = 450\).
+100, 102, 104 ... 998. This is an A.P. that starts from 100 with difference of 2 between successive terms. Hence, \(100 + 2(|D_2| - 1) = 998\). Therefore, \(|D_2| = 450\). Or alternatively, the numbers between 100 and 999 that are divisible by 2 are \( \lfloor\frac{999}{2}\rfloor - \lfloor \frac{99}{2} \rfloor = 450 \).
 
 The numbers in U that are divisible by 3 are:
 102, 105, 108 ... 999. This is an A.P. that starts from 102 with difference of 3 between successive terms. Hence, \(102 + 3(|D_3| - 1) = 999\). Therefore, \(|D_3| = 300\).
