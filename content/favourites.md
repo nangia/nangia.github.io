@@ -1,7 +1,7 @@
 ---
 title: "Favourite Downloads and Links"
 date: "2016-06-26T16:00:00+05:30"
-lastmod: "2018-06-15T21:15:00+05:30"
+lastmod: "2024-07-27T16:35:00+05:30"
 slug: favourites
 summary: 'Favourite Downloads and Links that I end up referring again and again.'
 categories:
@@ -25,6 +25,7 @@ Ramakrishna Vedanta Literature
     -  	[Volume 4](https://archive.org/details/kathamrita4)
     -  	[Volume 5](https://archive.org/details/kathamrita5)
 * [Complete works of Swami Vivekananda on Belur Math site](http://belurmath.org/complete_works_of_swami_vivekananda/) - Belur Math site
+* [Various other publications of Ramakrishna Math and Mission](https://publications.rkmm.org)
 * [Raja Yoga by Swami Vivekananda](http://ramakrishnavivekananda.info/vivekananda/volume_1/raja-yoga/raja-yoga_contents.htm) includes a running translation of Yoga Sutra of Patanjali
 * [Collection of various books on Ramakrishna and Vedanta Literature - Brazil Collection](http://estudantedavedanta.net/index.html). Includes various Upanishads, Brahma sutras, Gita, Great Master and so much more.
 * [Ramakrishna Vedanta Literature](https://drive.google.com/folderview?id=0B8uoysNu8mknZDlsMTlMUkFWOHc&usp=sharing) - Google Drive Collection. Mostly in Bangla script.
