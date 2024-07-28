@@ -3,7 +3,7 @@ baseurl="https://nangia.in"
 languageCode='en-us'
 title="Ruminations"
 theme='Hugo-Octopress'
-
+enableGitInfo = true
 
 # Needed so we can serve the example website without extra switches
 themesDir = "./themes"
