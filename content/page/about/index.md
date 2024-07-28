@@ -4,7 +4,8 @@ url = '/about'
 summary='About Sandeep Nangia.'
 date="2013-10-03T00:01:00+05:30"
 lastmod="2024-07-25T20:44:00+05:30"
-type = "page"
+[build]
+  list = 'never'
 
 +++
 
