@@ -42,7 +42,7 @@ Notes: श्वेत-वस्त्र-आवृत-अर्ध-अङ्ग
 -------
 
 प्रसन्नवदनां जीवदुःखगलितचेतसाम् ।   
-शुभ्रज्योतिर्मयीं देवीम् वरदां सर्वमङ्गलाम् ॥३॥
+शुभ्रज्योतिर्मयीं देवीं वरदां सर्वमङ्गलाम् ॥३॥
 
 (Meditate on Sri Sarada) Devi who has a cheerful face, whose heart melts with pity due to sorrow of the creatures, from whom emanates a radiant light, the giver of boons and who is ever auspicious.
 
