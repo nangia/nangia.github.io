@@ -112,8 +112,6 @@ github = "https://github.com/nangia"
   tag = 'tags'
 
 
-
-
 # Menu
 # If navigationNewWindow (under [params]) is set to true then all links except root ("/") will open in a new window
 # If it does not exist or is set to false then links will open in the same window
@@ -126,7 +124,7 @@ github = "https://github.com/nangia"
 
 [[menu.main]]
   Name = "About Me"
-  URL = "/about"
+  URL = "/pages/about.html"
   weight = 0
 
 
