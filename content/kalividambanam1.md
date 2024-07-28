@@ -1,7 +1,6 @@
 ---
 title: "Doctors in Kaliviḍambanam."
 date: "2015-05-09T14:00:00+05:30"
-lastmod: "2015-05-09T15:05:00+05:30"
 slug: kalividambane-vaidyaaH
 summary: "This is running translation of few satirical verses on Doctors written by Nīlakanṭha-Dīkṣita, a poet of 17th century. Enjoy!"
 categories:
@@ -54,8 +53,8 @@ Once the diseases have spread and men are dying, the Doctors slowly become profi
 प्रवर्तनार्थमारम्भे मध्ये त्वौषधहेतवे।  
 बहुमानार्थमन्ते च जिहीर्षन्ति चिकित्सकाः॥२८॥      
 
-Initially to engage, then to administer medicine and in the end to seek gratitude - in this way the Doctors deprive the patients again and again. 
- 
+Initially to engage, then to administer medicine and in the end to seek gratitude - in this way the Doctors desire to deprive the patients.
+
 --------------------------
 लिप्समानेषु वैद्येषु चिरादासाद्य रोगिणम्।  
 दायादाः सम्प्ररोहन्ति दैवज्ञा मान्त्रिका अपि॥२९॥ 
@@ -76,4 +75,4 @@ End note
 
 * These are satirical verses from कलिविडम्बनम् by Nīlakanṭha-dīkṣita.
 * The book कलिविडम्बनम् is part of a collection that can be downloaded from [here](https://archive.org/stream/Kavyamala_anthology_series_of_Nirnaya_sagar_press/KavyamalaAnthologyVol.05-MukapanchasatiKalividambanamEtc1937). Or you can view it [here](http://www.sanskritworld.in/public/assets/book/book_50dd30263ad34.txt).
-* जिहीर्षन्ति is the frequentative plural third person form of the verb हृ. 
+* जिहीर्षन्ति is the desirdative plural third person (सन्नन्त प्रथम पुरुष बहुवचन) form of the verb हृ (हृञ् हरणे - भ्वादिगण). 
