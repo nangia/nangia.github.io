@@ -1,7 +1,7 @@
 ---
 title: "शिक्षाष्टकम् - śikṣāṣṭakam "
 date: "2015-05-23T17:41:00+05:30"
-lastmod: "2015-05-23T22:16:00+05:30"
+lastmod: "2024-07-28T17:15:00+05:30"
 slug: shikshashtakam
 summary: "TThese are the eight verses of instruction written by Sri Chaitanya Mahaprabhu."
 categories:
@@ -117,7 +117,7 @@ Notes: युगायितम् Has become eons निमेषेण moments
 यथा तथा वा विदधातु लम्पटो मत्प्राणनाथस्तु स एव नापरः॥८॥   
 
 
-अन्वयः- आश्लिष्य पादरताम् वा, अदर्शनात् माम् पिनष्टु, मर्महतां करोतु  वा, यथा तथा वा विदधातु, मत्प्राणनाथ्ः तु स एव लम्पटः  न अपरः॥
+अन्वयः- आश्लिष्य पादरताम् वा, अदर्शनात् माम् पिनष्टु, मर्महतां करोतु  वा, यथा तथा वा विदधातु, मत्प्राणनाथः  तु स एव लम्पटः  न अपरः॥
 
 [Sri Radha says] Whether He may embrace me, who is devoted to His feet, pound me and strike at my vitals by His non-vision, whatever that Lecher may do, He is the Lord of my life and no one else. 
 
