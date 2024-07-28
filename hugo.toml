@@ -4,6 +4,7 @@ languageCode='en-us'
 title="Ruminations"
 theme='Hugo-Octopress'
 enableGitInfo = true
+enableRobotsTXT = true
 
 # Needed so we can serve the example website without extra switches
 themesDir = "./themes"
@@ -28,7 +29,6 @@ uglyURLs = true
 
 [params]
 
-enableRobotsTXT = true
 compactIndex = true
 sidebarTags = "Tags"
 sidebarCategories = "Categories"
