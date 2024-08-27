@@ -116,7 +116,7 @@ github = "https://github.com/nangia"
 # If navigationNewWindow (under [params]) is set to true then all links except root ("/") will open in a new window
 # If it does not exist or is set to false then links will open in the same window
 [[menu.main]]
-  Name = "Blogs"
+  Name = "Blog"
   URL = "/"
   weight = -5
 
