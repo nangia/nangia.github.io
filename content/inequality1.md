@@ -49,3 +49,7 @@ From inequalities \((1)\) and \((2):\)
 \[ (p + \frac{1}{p})^2 + (q + \frac{1}{q})^2 \geq 25/2 \]
 
 Hence, proved.
+
+## Reference
+
+Problem 1.15 of [Inequalities by Ozgur Kircak](https://ozgurmath.wordpress.com/wp-content/uploads/2013/06/inequalities-book.pdf)
