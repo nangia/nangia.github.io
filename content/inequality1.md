@@ -18,7 +18,7 @@ Prove that if \(p, q \gt 0\) and \(p + q = 1\), then
 
 ## Proof
 
-Since \(QM \geq AM\), we have:
+Since \(p, q \gt 0\) therefore \(p + \frac{1}{p} \gt 0 \) and \(q + \frac{1}{q} \gt 0 \). As \(QM \geq AM\) for positive numbers:
 
 \[ \sqrt{\frac{(p + \frac{1}{p})^2 + (q + \frac{1}{q})^2}{2}} \geq \frac{(p + \frac{1}{p}) + (q + \frac{1}{q})}{2}\]
 
